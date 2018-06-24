@@ -1,0 +1,71 @@
+/******BASE STYLES*******/
+body{
+  font-family:"Montserrat", sans-serif;
+}
+/*******GRID*************/
+.full-width{
+     width:1200px;
+     margin:0 auto;
+}
+.half-width{
+     width: 600px;
+     float: left;
+}
+.third-width{
+     width: 380px;
+     float: left;
+}
+/*************HEADER****************/
+header h1{
+   text-transform: uppercase;
+   padding-top: 10px;
+}
+header h1 span{
+    color:#77a466;
+}
+nav{
+    float: right;
+    padding-top: 20px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+   color: #77a466;
+   text-decoration: none;
+   font-size: 18px;
+   padding-left: 5px;
+}
+/**************MAIN****************/
+main h2{
+  text-transform: uppercase;
+  color: #77a466;
+}
+#menu{
+  border: 1px solid #f2f2f2;
+  padding: 0px 20px 42px 0;
+  text-decoration: none;
+}
+#menu p{
+  color: #77a466;
+}
+#reviews{
+  border:1px solid #f2f2f2;
+  padding: 0px 5px 33px 5px;
+
+}
+#contact{
+  border: 1px solid #f2f2f2;
+  padding: 0px 10px 95px 10px;
+}
+/**************FOOTER**************/
+footer{
+  clear: both;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+footer h3 span{
+  color: #77a466;
+  font-style: italic;
+}

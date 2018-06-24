@@ -1,0 +1,111 @@
+body{
+	font-family: 'bitter', serif;
+	margin:auto;
+	text-transform:uppercase;
+    overflow:auto;
+	background:#94b8b8;
+	color:#c6d9ec;
+	width:600px;
+
+
+}
+#first-section{
+	width:280px;
+	float:left;
+	margin:18px 0px 0px 15px;
+
+}
+#first-sectionb{
+	width:243px;
+	float:right;
+	margin:0px 40px 0px 0px;
+	padding:5px 0px 0px 0px;
+}
+#second-section{
+	clear:both;
+	margin-left: 16px ;
+}
+#third-section{
+    margin-left:16px;
+	float:left;
+	line-height:235%;
+}
+#third-sectionb{
+     line-height:120%;
+      margin:5px 0px 0px 310px;
+}
+#fourth-section{
+	margin:10px 0px 0px 15px;
+}
+#fourth-sectionb{
+	word-spacing:16px;
+}
+#fifth-section{
+	width: 290px;
+	margin:5px 0px 0px 16px;
+	float:left;
+}
+#fifth-sectionb{
+	width:250px;
+	margin:5px 0px 0px 310px;
+}
+#sixth-section{
+	Margin:0px 0px 0px 15px;
+	width:557px;
+}
+#section-seven{
+	width:180px;
+	margin:10px 0px 0px 16px;
+	float:left;
+}
+#section-sevenb{
+    MARGIN:3px 0px 10px 210px;
+	padding:3px 0px 0px 10px;
+
+}
+.first-size {
+	font-size:100px;
+	color:#ff4d4d;
+}
+.second-size{
+	Font-size:50px;
+	word-spacing:10px;
+	color:ff4d4d;
+}
+.third-size{
+   font-size:40px;
+}
+.fourth-size{
+   font-size:36px;
+   word-spacing:10px;
+	color:#ff5500;
+}
+.fifth-size{
+	font-size:30px;
+	word-spacing:8px;
+}
+.sixth-size{
+	font-size:26px;
+	word-spacing:13px;
+}
+.seventh-size{
+	font-size:22px;
+	word-spacing:8px;
+	color:cc3300;
+}
+.eigth-size{
+	font-size:18px;
+	word-spacing:3px;
+}
+.ninth-size{
+	font-size:16px;
+	word-spacing:10px;
+}
+.tenth-size{
+	font-size:14px;
+}
+.eleventh-size{
+	font-size:12;
+	word-spacing:10px;
+
+}
